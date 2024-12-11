@@ -1,18 +1,18 @@
 {
-  "name": "PRABATH-MD (2.1.3)",
-  "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
+  "name": "M_Shahid (2.1.3)",
+  "description": "M_Shahid has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "logo": "http://telegra.ph/file/ad25b2227fa2a1a01b707.jg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "M_Shahid"],
   "success_url": "/",
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "923361937779.",
       "required": true
     },  
 
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "PRABATH-MD~KfBF0ZyJ#caUd8vu88s3aA_ZXG8Tcs4R6DmvIzBLDdzpL8CmAK6Q.",
       "required": false
     },  
 
