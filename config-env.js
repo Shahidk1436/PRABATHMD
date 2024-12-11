@@ -1,7 +1,7 @@
 const envv2 = require('./config-v2')
 var GITHUB_TOKEN;
-var BOT_NUMBER;
-var SESSION_ID;
+var BOT_NUMBER;923361937779
+var SESSION_ID;PRABATH-MD~KfBF0ZyJ#caUd8vu88s3aA_ZXG8Tcs4R6DmvIzBLDdzpL8CmAK6Q
 
 const fs = require('fs');
 if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
@@ -31,8 +31,8 @@ SESSION_ID = envv2.SESSION_ID
 
 
 module.exports = {
-    SESSION_ID: SESSION_ID,    
-    BOT_NUMBER:  BOT_NUMBER,
-    GITHUB_USERNAME: username,
+    SESSION_ID: PRABATH-MD~KfBF0ZyJ#caUd8vu88s3aA_ZXG8Tcs4R6DmvIzBLDdzpL8CmAK6Q,    
+    BOT_NUMBER:  923361937779,
+    GITHUB_USERNAME: M_shahid1437,
     GITHUB_AUTH_TOKEN: GITHUB_TOKEN,
 };
